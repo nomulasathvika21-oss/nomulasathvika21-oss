@@ -193,7 +193,7 @@ improving my programming skills with **C and Python**.
 
 ---
 
-# 🧠 What I'm Learning
+# 🧠 My Focus
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Development-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -201,30 +201,7 @@ improving my programming skills with **C and Python**.
   <img src="https://img.shields.io/badge/SQL-Learning-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-```text
-                         ☕ JAVA
-                           │
-                           ▼
-                Object-Oriented Programming
-                           │
-                           ▼
-                  Collections & Exceptions
-                           │
-                           ▼
-                     Data Structures
-                           │
-                           ▼
-                       SQL + MySQL
-                           │
-                           ▼
-                    Database Concepts
-                           │
-                           ▼
-                    Backend Development
-                           │
-                           ▼
-                 ☕ JAVA BACKEND DEVELOPER
-```
+
 
 
 ## ✨ GitHub Highlights
